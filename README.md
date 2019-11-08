@@ -1,6 +1,9 @@
 # sameButtonConfirmSnippet
 confirm action without popup
 
+![Screenshot](docs/first.png)
+![Screenshot](docs/second.png)
+
 Just add .confirm class to the button for the action.
 
 ```javascript
